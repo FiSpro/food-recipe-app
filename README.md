@@ -1,6 +1,6 @@
 # Live Demo
-Deployed on Firebase
-https://food-recipe-app-83142.web.app
+Deployed on Firebase:\
+https://food-recipe-app-83142.web.app\
 https://food-recipe-app-83142.firebaseapp.com
 
 # Getting Started with Create React App
