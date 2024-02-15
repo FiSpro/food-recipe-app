@@ -1,5 +1,5 @@
 # Live Demo
-(https://food-recipe-app-83142.web.app)
+https://food-recipe-app-83142.web.app
 
 # Getting Started with Create React App
 
